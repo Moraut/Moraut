@@ -28,7 +28,7 @@ if __name__ == '__main__':
     me = MoRa()
 ```
 
-[![Spotify](https://moraut.vercel.app/api/spotify)](https://open.spotify.com/user/moraut)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/moraut)
 
 <!--
 **Moraut/Moraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

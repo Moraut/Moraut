@@ -27,20 +27,11 @@ class MoRa():
 if __name__ == '__main__':
     me = MoRa()
 ```
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 
-[![Spotify](https://Moraut.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Mora)
+&nbsp; <br> [![Spotify](https://Moraut.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Mora)
 
-<!--
-**Moraut/Moraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </td>
+  <td width="50%">

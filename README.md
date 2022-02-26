@@ -27,11 +27,5 @@ class MoRa():
 if __name__ == '__main__':
     me = MoRa()
 ```
-<table width="100%"> 
-  <tr>
-  <td width="50%">
+[![Spotify](https://novatorem-dgb5nfpg8-moraut.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Mora)
 
-&nbsp; <br> [![Spotify](https://Moraut.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Mora)
-
-  </td>
-  <td width="50%">

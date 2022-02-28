@@ -2,8 +2,12 @@
   <b>Mohit Raut</b>
 </h1>
 
-Hi! I am Mohit and i work as Data Scientist by profession.
-<br>
+Hi! I am Mohit and i am Data Scientist by profession.
+The following are a list of activities if pursue for fun:
+
+<br>:soccer: Follow Real Madrid and Arsenal Football Club</br>
+<br>:book: Read Books about Finance Managment, Productivity, Data Science etc.</br>
+<br>:grimacing: Worry about my team in Fantasy Premier League</br>
 
 <p>
 <div align="center">

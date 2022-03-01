@@ -9,6 +9,14 @@ The following are a list of activities if pursue for fun:
 <br>:book: Read Books about Finance Managment, Productivity, Data Science etc.</br>
 <br>:grimacing: Worry about my team in Fantasy Premier League</br>
 
+- Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/mohit-raut-20597348/)
+  - <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/> [Twitter](https://twitter.com/mo_raut)
+  - :bulb: [Medium](https://medium.com/@rautmohit08)
+
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraut&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Moraut/github-readme-stats)
+
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">

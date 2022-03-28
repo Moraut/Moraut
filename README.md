@@ -3,7 +3,7 @@
 </h1>
 
 Hi! I am Mohit and i am Data Scientist by profession.
-The following are a list of activities if pursue for fun:
+The following are a list of activities i pursue for fun:
 
 <br>:soccer: Follow Real Madrid and Arsenal Football Club</br>
 <br>:book: Read Books about Finance Managment, Productivity, Data Science etc.</br>
